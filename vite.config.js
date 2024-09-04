@@ -1,5 +1,6 @@
+
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/todo-app/",
+  base: "/todo-app/", /* TODO: update to your repository name */
 });
