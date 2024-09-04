@@ -1,0 +1,17 @@
+{
+  "name": "todo-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "prettier": "prettier --write \"src/**/*.js\" --config \".prettierrc.json\"",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+    
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "vite": "^5.4.1"
+  }
+}
